@@ -1,0 +1,12 @@
+# Normalize text files to LF; keep binary deliverables untouched.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.pth binary
+*.npz binary
+*.npy binary
