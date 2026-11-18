@@ -1,0 +1,15 @@
+[    1.8s] [cifar10] step    1/471 | epoch  0.01 | train_loss 2.8336 | lr 0.00e+00
+[   58.1s] [cifar10] step   50/471 | epoch  0.32 | train_loss 1.6396 | lr 3.00e-04
+[  116.1s] [cifar10] step  100/471 | epoch  0.64 | train_loss 0.8472 | lr 2.89e-04
+[  175.2s] [cifar10] step  150/471 | epoch  0.96 | train_loss 0.8389 | lr 2.60e-04
+[  193.8s] [cifar10] eval @ epoch  1.00 | eval_loss 0.7412 | acc 0.7690
+[  244.9s] [cifar10] step  200/471 | epoch  1.27 | train_loss 0.6188 | lr 2.15e-04
+[  302.4s] [cifar10] step  250/471 | epoch  1.59 | train_loss 0.4989 | lr 1.62e-04
+[  359.7s] [cifar10] step  300/471 | epoch  1.91 | train_loss 0.4888 | lr 1.07e-04
+[  386.2s] [cifar10] eval @ epoch  2.00 | eval_loss 0.4199 | acc 0.8600
+[  430.5s] [cifar10] step  350/471 | epoch  2.23 | train_loss 0.3425 | lr 5.75e-05
+[  498.1s] [cifar10] step  400/471 | epoch  2.55 | train_loss 0.2833 | lr 2.09e-05
+[  556.3s] [cifar10] step  450/471 | epoch  2.87 | train_loss 0.2843 | lr 2.00e-06
+[  594.3s] [cifar10] eval @ epoch  3.00 | eval_loss 0.3692 | acc 0.8840
+[  594.7s] [cifar10] training finished | best_metric=0.884 | total_steps=471
+[  605.7s] [cifar10] eval @ epoch  3.00 | eval_loss 0.3692 | acc 0.8840

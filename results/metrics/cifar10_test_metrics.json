@@ -1,0 +1,20 @@
+{
+  "dataset": "cifar10",
+  "display_name": "CIFAR-10",
+  "num_classes": 10,
+  "test_size": 10000,
+  "accuracy": 0.8754,
+  "top3_accuracy": 0.9802,
+  "top5_accuracy": 0.9956,
+  "macro_f1": 0.8741783788984003,
+  "weighted_f1": 0.8741783788984004,
+  "macro_precision": 0.8750575982102442,
+  "macro_recall": 0.8754,
+  "per_class_accuracy_mean": 0.8754,
+  "per_class_accuracy_std": 0.07336102507462668,
+  "per_class_accuracy_min": 0.689,
+  "per_class_accuracy_max": 0.949,
+  "test_loss": 0.3792131245136261,
+  "elapsed_sec": 118.94,
+  "chance_level": 0.1
+}
