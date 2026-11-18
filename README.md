@@ -244,7 +244,7 @@ curl -L -o checkpoints/cifar100/resnet18_cifar100.pth \
 - [汇报 PPT](<presentation/基于预训练 CNN 的图像分类与聚类.pptx>)
 - [实验结果说明](docs/实验结果说明.md)
 
-报告包含实验目的、原理、数据集、模型结构、训练设置、分类/聚类结果、CIFAR-10 与 CIFAR-100 对比分析及不足。PPT 共 12 页，适合课堂汇报。
+报告包含实验目的、原理、数据集、模型结构、训练设置、分类/聚类结果、CIFAR-10 与 CIFAR-100 对比分析及不足。PPT 共 11 页，适合课堂汇报。
 
 ---
 
