@@ -1,0 +1,26 @@
+# Core experiment environment (CPU-only machine used for the reported run)
+# For GPU, install the matching PyTorch build from https://pytorch.org
+torch==2.5.0
+torchvision==0.20.0
+transformers==4.57.3
+accelerate==1.12.0
+scikit-learn==1.6.0
+numpy==1.26.4
+pandas==2.3.0
+scipy==1.13.1
+matplotlib==3.8.4
+Pillow==10.3.0
+
+# Data download / conversion
+pyarrow==22.0.0
+
+# Notebook execution
+jupyterlab==4.6.0
+notebook==7.0.8
+ipykernel==6.28.0
+nbformat==5.9.2
+nbconvert==7.10.0
+
+# Optional: only needed to rebuild reports/ and presentation/
+python-docx==1.2.0
+python-pptx==1.0.2
